@@ -1,4 +1,5 @@
 # backstage
 front-end backstage pages
 
-目前尚未组件化，详细说明后续添加
+#说明1
+scss中自定义的变量放入_variables.scss中，通过import导入
